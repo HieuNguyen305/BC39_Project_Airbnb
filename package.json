@@ -14,7 +14,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@tippyjs/react": "^4.2.6",
     "@types/google-map-react": "^2.1.7",
-    "antd": "^4.23.6",
+    "antd": "^4.24.8",
     "axios": "^0.27.2",
     "formik": "^2.2.9",
     "google-map-react": "^2.2.0",
